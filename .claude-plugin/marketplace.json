@@ -1,0 +1,14 @@
+{
+  "name": "twinzo",
+  "owner": {
+    "name": "Twinzo",
+    "email": "info@twinzo.com"
+  },
+  "plugins": [
+    {
+      "name": "twinzo",
+      "source": "./",
+      "description": "Twinzo factory data for AI agents"
+    }
+  ]
+}

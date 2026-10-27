@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "twinzo",
+  "version": "1.0.0",
+  "description": "Twinzo factory data for AI agents",
+  "author": {
+    "name": "Twinzo",
+    "url": "https://twinzo.com"
+  },
+  "homepage": "https://twinzo.com",
+  "repository": "https://github.com/5-0-Technologies/twinzo-mcp",
+  "license": "MIT",
+  "keywords": ["twinzo", "factory", "mcp"]
+}
